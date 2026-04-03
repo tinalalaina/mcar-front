@@ -1,0 +1,13 @@
+export { NewsletterBlock } from "./NewsletterBlock";
+export { SideContent } from "./SideContent";
+export { PopularVehicles } from "./PopularVehicles";
+export { FavoriteVehicles } from "./FavoriteVehicles";
+export { MostBookedVehicles } from "./MostBookedVehicles";
+export { NewVehicles } from "./NewVehicles";
+export { VehicleCategories } from "./VehicleCategories";
+export { VehicleCategories2 } from "./VehicleCategories2";
+export { WhyGasyCarSection } from "./WhyGasyCarSection";
+export { FeaturesSection } from "./FeaturesSection";
+export { HowItWorksSection } from "./HowItWorksSection";
+export { StatsSection } from "./StatsSection";
+export { BecomeHostCTA } from "./BecomeHostCTA";
