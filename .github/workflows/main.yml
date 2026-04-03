@@ -3,6 +3,11 @@ name: Build and Push Docker Image
 on:
   push:
     branches:
+      - main
+      - prod
+  pull_request:
+    branches:
+      - main
       - prod
   workflow_dispatch: # Allow manual triggers
 
