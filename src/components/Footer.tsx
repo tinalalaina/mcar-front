@@ -27,7 +27,7 @@ const Footer = () => {
               <a href="https://x.com" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-white/10 hover:bg-secondary flex items-center justify-center transition-colors">
                 <Twitter className="w-5 h-5" />
               </a>
-              <a href="mailto:support@madagasycar.com" className="w-10 h-10 rounded-full bg-white/10 hover:bg-secondary flex items-center justify-center transition-colors">
+              <a href="mailto:support@mcar.tina-lalaina.site" className="w-10 h-10 rounded-full bg-white/10 hover:bg-secondary flex items-center justify-center transition-colors">
                 <Mail className="w-5 h-5" />
               </a>
             </div>
