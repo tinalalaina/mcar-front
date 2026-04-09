@@ -429,7 +429,7 @@ const FAQ = () => {
             <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/10 px-4 py-2 backdrop-blur-md shadow-lg">
               {/* <Sparkles className="h-4 w-4 text-emerald-300" /> */}
               <span className="text-xs font-semibold uppercase tracking-[0.2em] text-white/95 sm:text-sm">
-                Support & assistance
+                Support & assistance modifier
               </span>
             </div>
 
